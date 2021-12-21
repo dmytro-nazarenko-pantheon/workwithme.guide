@@ -89,3 +89,7 @@
 	path = jvoorhis
 	url = https://github.com/jvoorhis/workwithme.guide-myguide.git
 	branch = master
+[submodule "dmytro-nazarenko-pantheon"]
+	path = dmytro-nazarenko-pantheon
+	url = https://github.com/dmytro-nazarenko-pantheon/workwithme.guide-myguide.git
+	branch = master
